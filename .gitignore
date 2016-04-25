@@ -1,0 +1,12 @@
+.DS_Store
+Thumbs.db
+db.json
+Lianliankan.sdf
+*.log
+node_modules/
+public/
+.deploy*/
+Debug/
+Release/
+ipch/
+
